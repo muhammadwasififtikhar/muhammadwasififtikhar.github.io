@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Decorative portfolio artwork for Real Archery Hero: A Bow And Arrow Game">
+    <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#392a21"/><stop offset=".68" stop-color="#ca6d46"/><stop offset="1" stop-color="#fad17e"/></linearGradient><radialGradient id="flare"><stop stop-color="#fad17e" stop-opacity=".36"/><stop offset="1" stop-color="#fad17e" stop-opacity="0"/></radialGradient></defs>
+    <rect width="900" height="560" rx="30" fill="url(#bg)"/>
+    <circle cx="645" cy="280" r="295" fill="url(#flare)"/><circle cx="650" cy="290" r="260" fill="none" stroke="#fff" stroke-opacity=".12"/><circle cx="650" cy="290" r="190" fill="none" stroke="#fff" stroke-opacity=".11"/>
+    <path d="M655 160q-250 175 0 340M440 330h355" fill="none" stroke="#fff" stroke-opacity=".27" stroke-width="20" stroke-linecap="round"/><path d="M758 300l45 30-45 30" fill="none" stroke="#fff" stroke-opacity=".27" stroke-width="15"/>
+    <path d="M-25 470L460 100M0 540L540 145" stroke="#fff" stroke-opacity=".07" stroke-width="5"/>
+    <text x="57" y="76" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="7">M W I  /  PLAY</text>
+    <text x="57" y="390" fill="#fff" font-family="Arial,sans-serif" font-size="94" font-weight="900" letter-spacing="-4">BOW</text>
+    <rect x="57" y="418" width="88" height="5" rx="3" fill="#fff" fill-opacity=".7"/><text x="57" y="480" fill="#fff" fill-opacity=".85" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">MOBILE GAMES</text>
+    </svg>

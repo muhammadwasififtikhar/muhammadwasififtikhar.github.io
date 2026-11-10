@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 560" role="img" aria-label="Decorative portfolio artwork for Bike Highway Traffic Rider Game">
+    <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#14363a"/><stop offset=".68" stop-color="#15a998"/><stop offset="1" stop-color="#d1ff79"/></linearGradient><radialGradient id="flare"><stop stop-color="#d1ff79" stop-opacity=".36"/><stop offset="1" stop-color="#d1ff79" stop-opacity="0"/></radialGradient></defs>
+    <rect width="900" height="560" rx="30" fill="url(#bg)"/>
+    <circle cx="645" cy="280" r="295" fill="url(#flare)"/><circle cx="650" cy="290" r="260" fill="none" stroke="#fff" stroke-opacity=".12"/><circle cx="650" cy="290" r="190" fill="none" stroke="#fff" stroke-opacity=".11"/>
+    <circle cx="515" cy="385" r="85" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="16"/><circle cx="736" cy="385" r="85" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="16"/><path d="M515 385l100-125 121 125H605l-60-95" fill="none" stroke="#fff" stroke-opacity=".25" stroke-width="12"/>
+    <path d="M-25 470L460 100M0 540L540 145" stroke="#fff" stroke-opacity=".07" stroke-width="5"/>
+    <text x="57" y="76" fill="#fff" fill-opacity=".72" font-family="Arial,sans-serif" font-size="21" font-weight="800" letter-spacing="7">M W I  /  PLAY</text>
+    <text x="57" y="390" fill="#fff" font-family="Arial,sans-serif" font-size="94" font-weight="900" letter-spacing="-4">BIKE</text>
+    <rect x="57" y="418" width="88" height="5" rx="3" fill="#fff" fill-opacity=".7"/><text x="57" y="480" fill="#fff" fill-opacity=".85" font-family="Arial,sans-serif" font-size="18" letter-spacing="3">MOBILE GAMES</text>
+    </svg>
